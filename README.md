@@ -6,8 +6,8 @@ My solutions to various programing challenges.
 #### Table of Contents
 * [Reverse Int](#reverse-int)
 * [Reverse String](#reverse-string)
-* [strStr](#strStr)
-* [fizzbuzz](#fizbuzz)
+* [strStr](#strstr)
+* [fizzbuzz](#fizzbuzz)
 
 ##### Reverse Int
 Summary: Given an integer find the reverse representation.

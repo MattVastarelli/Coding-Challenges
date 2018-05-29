@@ -7,7 +7,7 @@ My solutions to various programing challenges.
 * [Reverse Int](#reverse-int)
 * [Reverse String](#reverse-string)
 * [strStr](#strstr)
-* [fizzbuzz](#fizzbuzz)
+* [FizzBuzz](#fizzbuzz)
 
 ##### Reverse Int
 Summary: Given an integer find the reverse representation.

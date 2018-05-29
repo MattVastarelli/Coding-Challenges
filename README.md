@@ -34,4 +34,4 @@ Return: 2
 ```
 
 ##### FizzBuzz
-Summary: for multiples of 5 and 3 print FizzBuzz, multiples of 5 print Fizz, multiples of 3 print Buzz, else just print he number
+Summary: For multiples of 5 and 3 print FizzBuzz, multiples of 5 print Fizz, multiples of 3 print Buzz, else just print he number

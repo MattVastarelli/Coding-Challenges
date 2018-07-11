@@ -1,4 +1,4 @@
-# LeetCode and Other Challenges
+# Programming Challenges
 
 ### About 
 My solutions to various programing challenges.  

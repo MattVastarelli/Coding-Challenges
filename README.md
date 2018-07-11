@@ -8,6 +8,7 @@ My solutions to various programing challenges.
 * [Reverse String](#reverse-string)
 * [strStr](#strstr)
 * [FizzBuzz](#fizzbuzz)
+* [Two Sum](#two-sum)
 
 ##### Reverse Int
 Summary: Given an integer find the reverse representation.
@@ -34,4 +35,14 @@ Return: 2
 ```
 
 ##### FizzBuzz
-Summary: For multiples of 5 and 3 print FizzBuzz, multiples of 5 print Fizz, multiples of 3 print Buzz, else just print he number
+Summary: For multiples of 5 and 3 print FizzBuzz, multiples of 5 print Fizz, multiples of 3 print Buzz, else just print the number
+
+##### Two Sum
+Summary: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+```
+Given:
+nums = [2, 7, 11, 15] 
+target = 9
+
+return [0, 1]
+```

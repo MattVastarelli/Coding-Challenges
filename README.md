@@ -37,6 +37,13 @@ Return: 2
 
 ##### FizzBuzz
 Summary: For multiples of 5 and 3 print FizzBuzz, multiples of 5 print Fizz, multiples of 3 print Buzz, else just print the number
+```
+Example:
+8: *
+9: Buzz
+10: Fizz
+15: FizzBuzz
+```
 
 ##### Two Sum
 Summary: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
